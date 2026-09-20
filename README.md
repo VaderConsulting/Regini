@@ -1,6 +1,6 @@
 # Regini
 
-VB6 working copy of `Regini` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Regini. Output: `Regini2.exe`.
+VB6 Regini wrapper (`Regini2.exe` / `Regini.vbp`): rewrites HKLM/HKU-style paths to `\Registry\Machine` / `\Registry\Users` and shells out to `Regini.exe` with the remaining args. Open `Regini.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
